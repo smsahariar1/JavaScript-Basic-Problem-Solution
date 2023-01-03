@@ -1,61 +1,61 @@
 # JavaScript-Basic-Problem-Solution
 
 ```bash
-problem-1.js ->
+problem-i.js ->
 ```
 
 ```bash
-problem-2.js ->
+problem-ii.js ->
 ```
 
 ```bash
-problem-3.js ->
+problem-iii.js ->
 ```
 
 ```bash
-problem-4.js ->
+problem-iv.js ->
 ```
 
 ```bash
-problem-5.js ->
+problem-v.js ->
 ```
 
 ```bash
-problem-6.js ->
+problem-vi.js ->
 ```
 
 ```bash
-problem-7.js ->
+problem-vii.js ->
 ```
 
 ```bash
-problem-8.js -> For Loop Related
+problem-viii.js -> For Loop Related
 ```
 
 ```bash
-problem-9.js -> For Loop Related
+problem-ix.js -> For Loop Related
 ```
 
 ```bash
-problem-10.js -> For Loop Related
+problem-x.js -> For Loop Related
 ```
 
 ```bash
-problem-11.js -> For Loop Related
+problem-xi.js -> For Loop Related
 ```
 
 ```bash
-problem-12.js -> Array and For Loop Related
+problem-xii.js -> Array and For Loop Related
 ```
 
 ```bash
-problem-13.js -> Array and While loop Related
+problem-xiii.js -> Array and While loop Related
 ```
 
 ```bash
-problem-14.js -> Array and For Loop Related
+problem-xiv.js -> Array and For Loop Related
 ```
 
 ```bash
-problem-15.js -> Array and For Loop Related
+problem-xv.js -> Array and For Loop Related
 ```
